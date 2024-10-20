@@ -1,2 +1,22 @@
-# atividade_javascript_DOM
-Atividade para a Disciplina de Programação Web Back-End - C81 (2024_02) do meu Curso de Engenharia de Software- UTFPR_CP. Uma aplicação de lista de tarefas  construída com HTML, CSS e JavaScript. O projeto demonstra a manipulação do DOM, permitindo aos usuários adicionar, concluir e remover tarefas facilmente
+# Lista de Tarefas
+
+Uma aplicação de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
+
+## Funcionalidades
+
+- Adicionar novas tarefas.
+- Marcar tarefas como concluídas.
+- Remover tarefas da lista.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/EveliseRibino/nome_do_repositorio.git
+
